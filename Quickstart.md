@@ -129,7 +129,7 @@ cd crowdshield-edge
 python run_cameras.py
 ```
 
-**Make sure the edge service is running and actively processing camera feeds before proceeding.**
+**Make sure the edge service is running and actively processing camera feeds before proceeding (The admin panel and edge service should be running on a single system).**
 
 ### Step 2 — Test the Admin Dashboard
 
